@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: #0fb861;
+}
+h1{
+  text-align: center;
+  color: #7e390c;
+}
+#time{
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  font-style: inherit;
+  color: #680808;
+}
